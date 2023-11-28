@@ -8,7 +8,7 @@ constructor(private prisma: PrismaService) {}
   signin() {
     return "login";
   }
-  signup() {
+  signup(dto: Authdto) {
     return "signup";
   }
 }
