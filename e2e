@@ -1,0 +1,11 @@
+yarn run v1.22.19
+$ jest
+No tests found, exiting with code 1
+Run with `--passWithNoTests` to exit with code 0
+In C:\Users\Inteli\Documents\Projetos\NestJs\src
+  18 files checked.
+  testMatch:  - 0 matches
+  testPathIgnorePatterns: \\node_modules\\ - 18 matches
+  testRegex: .*\.spec\.ts$ - 0 matches
+Pattern:  - 0 matches
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
